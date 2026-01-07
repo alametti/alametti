@@ -5,8 +5,9 @@
 This user has given up GitHub.
 ([See Software Freedom Conservancy's _Give Up GitHub_ site for details](https://GiveUpGitHub.org).)
 
-You can now find this user at [CodeBerg](https://codeberg.org/bertogatti)
-instead.
+You can now find this user at their
+[self-hosted Forgejo instance](https://git.metti.ca/andre) or
+[Codeberg](https://codeberg.org/bertogatti) instead.
 
 Any use of this user's code by GitHub Copilot, past or present, is done without
 their permission. They do not consent to GitHub's use of this project's code in
